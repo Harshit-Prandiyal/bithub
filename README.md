@@ -1,2 +1,2 @@
 # bithub
-App that provides study material and important links for college students particularly for bit mesra
+bithub is a cross platform app built with flutter.This app is aimed at students of BIT Mesra and provides useful features like study aid , attendence tracker , visiting erp portal of college and some useful coding resources as well.
